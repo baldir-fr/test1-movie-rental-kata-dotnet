@@ -36,7 +36,7 @@ The purpose of this is to provide good examples for the refactoring workshop.
 
 ## Build
 
-All you need to build this project is nodejs.
+To build this project you need to have .NET Core SDK installed.
 
 ## Testing
 
