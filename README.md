@@ -40,9 +40,9 @@ To build this project you need to have .NET Core SDK installed.
 
 ## Testing
 
-Unit tests can be run using npm:
+Unit tests can be run using dotnet
 
-    dotnet test MovieRental.Tests
+    dotnet test
 
 
 Tests are located in the [MovieRental.Tests](MovieRental.Tests/) directory and run using xunit.
